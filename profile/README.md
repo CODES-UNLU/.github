@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://www.codesunlu.tech/assets/images/Logo.svg" alt="CODES++" width="200" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png" />
+    <img src="./assets/logo-light.png" alt="CODES++" width="380" />
+  </picture>
 </p>
 
 <h1 align="center">CODES++</h1>
