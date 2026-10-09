@@ -25,21 +25,9 @@ Nacimos para **representar y potenciar** a la comunidad estudiantil, brindando r
 | 💻 **Proyectos** | Herramientas y software abierto desarrollado por la comunidad. |
 | 🎉 **Actividades y eventos** | Charlas, encuentros y participación en congresos del área. |
 
-## 🤝 ¿Cómo participar?
+## 🚧 Próximamente
 
-1. 🔎 Visitá nuestro sitio: [codesunlu.tech](https://www.codesunlu.tech/)
-2. 📬 Escribinos a [sistemas@codesunlu.tech](mailto:sistemas@codesunlu.tech)
-3. 💬 Sumate al Discord: [discord.gg/2hbjvN7KDH](https://discord.gg/2hbjvN7KDH)
-4. 🛠️ Si sos estudiante o docente, sumá tus ideas y tu código.
-
-## 💬 Comunidad
-
-- 🌐 Web del centro: [codesunlu.tech](https://www.codesunlu.tech/)
-- 📧 Contacto: [sistemas@codesunlu.tech](mailto:sistemas@codesunlu.tech)
-- 📸 Instagram: [@codes_unlu](https://www.instagram.com/codes_unlu/)
-- 💼 LinkedIn: [codes-unlu](https://www.linkedin.com/company/codes-unlu/)
-- 𝕏 X: [@codes_unlu](https://x.com/codes_unlu)
-- 💬 Discord: [discord.gg/2hbjvN7KDH](https://discord.gg/2hbjvN7KDH)
+Estamos preparando novedades para esta sección. ¡Volvé pronto!
 
 ---
 
