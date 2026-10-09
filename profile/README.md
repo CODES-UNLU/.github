@@ -25,16 +25,6 @@ Nacimos para **representar y potenciar** a la comunidad estudiantil, brindando r
 | 💻 **Proyectos** | Herramientas y software abierto desarrollado por la comunidad. |
 | 🎉 **Actividades y eventos** | Charlas, encuentros y participación en congresos del área. |
 
-## 🏆 Destacados
-
-**CACIC 2025**: participación de CODES++ en el Congreso Argentino de Ciencias de la Computación, el evento más importante del país en el área.
-
-## 🚀 Proyectos
-
-| Repositorio | Descripción |
-| --- | --- |
-| [**Wiki-CODES**](https://github.com/CODES-UNLU/Wiki-CODES) | Wiki hecha por y para estudiantes de la UNLu: recursos de la Licenciatura en Sistemas, beneficios educativos y material de informática. |
-
 ## 🤝 ¿Cómo participar?
 
 1. 🔎 Visitá nuestro sitio: [codesunlu.tech](https://www.codesunlu.tech/)
