@@ -28,10 +28,6 @@ Nacimos para **representar y potenciar** a la comunidad estudiantil, brindando r
 | 💻 **Proyectos** | Herramientas y software abierto desarrollado por la comunidad. |
 | 🎉 **Actividades y eventos** | Charlas, encuentros y participación en congresos del área. |
 
-## 🚧 Próximamente
-
-Estamos preparando novedades para esta sección. ¡Volvé pronto!
-
 ---
 
 <p align="center">Hecho con ❤️ por y para estudiantes de Sistemas de la UNLu.</p>
