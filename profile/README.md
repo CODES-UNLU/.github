@@ -1,11 +1,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png" />
-    <img src="./assets/logo-light.png" alt="CODES++" width="380" />
+    <img src="./assets/logo-light.png" alt="CODES" width="200" />
   </picture>
 </p>
 
-<h1 align="center">CODES++</h1>
+<h1 align="center">CODES</h1>
 
 <p align="center"><strong>Centro Organizado de Estudiantes de Sistemas · UNLu</strong></p>
 
@@ -13,9 +13,9 @@
 
 ---
 
-## 🧭 ¿Qué es CODES++?
+## 🧭 ¿Qué es CODES?
 
-**CODES++** es el Centro Organizado de Estudiantes de Sistemas de la **Universidad Nacional de Luján (UNLu)**, en Luján, Buenos Aires.
+**CODES** es el Centro Organizado de Estudiantes de Sistemas de la **Universidad Nacional de Luján (UNLu)**, en Luján, Buenos Aires.
 
 Nacimos para **representar y potenciar** a la comunidad estudiantil, brindando recursos, actividades y apoyo académico a quienes estudian Sistemas.
 
