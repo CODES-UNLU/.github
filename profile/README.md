@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png" />
-    <img src="./assets/logo-light.png" alt="CODES" width="200" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-oscuro.png" />
+    <img src="./assets/logo-claro.png" alt="CODES" width="200" />
   </picture>
 </p>
 
